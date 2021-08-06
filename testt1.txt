@@ -12,3 +12,4 @@ test
 한번에 push
 
 두번째 시도
+6번쨰 시도 - add와 commoit을 한번에 시도
